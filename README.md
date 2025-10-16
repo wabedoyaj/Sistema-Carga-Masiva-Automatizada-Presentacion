@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="./docs/banner.png" width="800" alt="Sistema de Carga Masiva Automatizada" />
+</p>
 <h1 align="center">⚡ Sistema de Carga Masiva Automatizada</h1>
 
 <p align="center">
